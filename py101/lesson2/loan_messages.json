@@ -1,0 +1,42 @@
+{
+  "en": {
+    "welcome": "Welcome to Loan Calculator!",
+    "loan_prompt": "Enter the loan amount:",
+    "invalid_number": "Please enter a valid number.",
+    "apr": "Enter the Annual Percentage Rate (APR)",
+    "invalid_apr": "Please enter a valid number (Ex. not '7%' or '.07' - just '7')",
+    "loan_dur_months": "Enter the duration of your loan in months",
+    "monthly_pmt": "Your monthly payment is:",
+    "another_calc": "Would you like to perform another calculation? (y/n)"
+  },
+  "es": {
+    "welcome": "¡Bienvenido a la Calculadora de Préstamos!",
+    "loan_prompt": "Ingrese el monto del préstamo:",
+    "invalid_number": "Ingrese un número válido.",
+    "apr": "Ingrese la Tasa de Porcentaje Anual (TAE).",
+    "invalid_apr": "Ingrese un número válido (Ingrese «7», no 7% ni 0.07).",
+    "loan_dur_months": "Ingrese la duración del préstamo en meses.",
+    "monthly_pmt": "Su pago mensual sería:",
+    "another_calc": "¿Desea realizar otro cálculo? (s/n)"
+  },
+  "fr": {
+    "welcome": "Bienvenue sur le simulateur de prêt!",
+    "loan_prompt": "Saisissez le montant du prêt:",
+    "invalid_number": "Veuillez saisir un nombre valide.",
+    "apr": "Taux annuel effectif global (TAEG):",
+    "invalid_apr": "Veuillez saisir un nombre valide (saisissez «7», et non 7% ou 0,07).",
+    "loan_dur_months": "Saisissez la durée de votre prêt en mois.",
+    "monthly_pmt": "Votre mensualité sera de:",
+    "another_calc": "Souhaitez-vous effectuer un autre calcul? (o/n)"
+  },
+  "it": {
+    "welcome": "Benvenuto nel Calcolatore di Prestiti!",
+    "loan_prompt": "Inserisci l'importo del prestito:",
+    "invalid_number": "Inserisci un numero valido.",
+    "apr":"Inserisci il Tasso Annuo Effettivo Globale (TAEG)",
+    "invalid_apr": "Inserisci un numero valido (es. non '7%' o '.07' - solo '7')",
+    "loan_dur_months": "Inserisci la durata del prestito in mesi",
+    "monthly_pmt": "La tua rata mensile sarebbe:",
+    "another_calc": "Desideri eseguire un altro calcolo? (s/n)"
+    }
+}

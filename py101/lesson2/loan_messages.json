@@ -14,7 +14,7 @@
     "loan_prompt": "Ingrese el monto del préstamo:",
     "invalid_number": "Ingrese un número válido.",
     "apr": "Ingrese la Tasa de Porcentaje Anual (TAE).",
-    "invalid_apr": "Ingrese un número válido (Ingrese «7», no 7% ni 0.07).",
+    "invalid_apr": "Ingrese un número válido (Ingrese 7, no 7% ni 0.07).",
     "loan_dur_months": "Ingrese la duración del préstamo en meses.",
     "monthly_pmt": "Su pago mensual sería:",
     "another_calc": "¿Desea realizar otro cálculo? (s/n)"
